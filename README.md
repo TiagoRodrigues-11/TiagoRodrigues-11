@@ -1,5 +1,5 @@
 
-# Hello, I'm [Tiago]! 👋
+# Hello, I'm Tiago! 👋
 
 I'm a full-stack developer with a master's degree in Computer Science.
 
