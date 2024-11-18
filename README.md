@@ -5,7 +5,7 @@
 ## About Me
  - 🎓 **Master's Graduate in Informatics and Computing Engineering**
  - ✉️ **Contact**: [tiago.andre764@hotmail.com](mailto:tiago.andre764@hotmail.com)
- - 🤝 **Open to collaborating** on full-stack projects
+ - 🤝 **Open to collaborating** on projects
 
 --- 
 
