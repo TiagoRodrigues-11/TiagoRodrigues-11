@@ -23,6 +23,6 @@
 ---
 
 ## 🌐 Socials  
-[LinkedIn](#https://www.linkedin.com/in/tiago-rodrigues-5ba2112b5/)
+[LinkedIn](https://www.linkedin.com/in/tiago-rodrigues-5ba2112b5/)
 
 ---
