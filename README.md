@@ -1,12 +1,28 @@
 
-# Hello, I'm Tiago! 👋
+# Hello, My name is Tiago Rodrigues! 👋
 
-I'm a full-stack developer with a master's degree in Computer Science.
 
 ## About Me
-With a background in full-stack development, I've gained extensive experience in software engineering, databases, and information systems through my academic studies and projects. 
-My work combines a foundation in theoretical concepts with practical skills.
+ - 🎓 **Master's Graduate in Informatics and Computing Engineering**
+ - ✉️ **Contact**: [tiago.andre764@hotmail.com](mailto:tiago.andre764@hotmail.com)
+ - 🤝 **Open to collaborating** on full-stack projects
 
-## Let's Connect! 🌐
+--- 
 
-- [LinkedIn](https://www.linkedin.com/in/tiago-rodrigues-5ba2112b5)
+## 🛠 Skills  
+**Languages & Frameworks**  
+- JavaScript, Node.js, React, Java  
+- Python, C, C++, HTML5, CSS3  
+
+**Databases**  
+- MySQL, PostgreSQL  
+
+**Tools**  
+- Git, Docker
+
+---
+
+## 🌐 Socials  
+[LinkedIn](#https://www.linkedin.com/in/tiago-rodrigues-5ba2112b5/)
+
+---
