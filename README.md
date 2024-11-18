@@ -9,4 +9,4 @@ My work combines a foundation in theoretical concepts with practical skills.
 
 ## Let's Connect! 🌐
 
-- [LinkedIn]([link_to_linkedin](https://www.linkedin.com/in/tiago-rodrigues-5ba2112b5))
+- [LinkedIn](https://www.linkedin.com/in/tiago-rodrigues-5ba2112b5)
