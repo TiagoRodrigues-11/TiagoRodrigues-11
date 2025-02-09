@@ -11,8 +11,10 @@
 
 ## 🛠 Skills  
 **Languages & Frameworks**  
-- JavaScript, Node.js, React, Java  
-- Python, C, C++, HTML5, CSS3  
+- JavaScript, HTML, CSS
+- Python
+- C, C++, Java  
+- Node.js, React
 
 **Databases**  
 - MySQL, PostgreSQL  
